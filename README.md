@@ -1,5 +1,6 @@
 # cooling-power-of-a-solid-plane-emitter
-This document presents a theoretical framework for calculating the cooling power of a solid plane emitter, developed on the MATLAB platform
+This document presents a theoretical framework for calculating the cooling power of a solid plane emitter, developed on the MATLAB platform.
+
 The example file “Case1.m” demonstrates the practical application of this framework, 
 while the remaining documents provide encapsulated functions for users to construct their own theoretical models. 
 
