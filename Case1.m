@@ -11,8 +11,8 @@
     tau_solar=0;%solar transmittance
     r_solar=1;  %solar reflectance
     S=1000;     %solar irradiance(W/m2)
-    cloud=0;    %cloud cover
-    h=0;        %Non-radiative heat transfer coefficient(W/m2)
+    cloud=0;    %cloud cover,0-1
+    h=0;        %Non-radiative heat transfer coefficient(W/m2/K)
 %%%%%%%%%%%%%%%%
 %Cooling power Calculating
 %%%%%%%%%%%%%%%%%

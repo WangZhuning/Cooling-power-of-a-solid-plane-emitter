@@ -9,7 +9,7 @@
 %           r_solar:    solar reflectance
 %           S:          solar irradiance
 %           cloud:      cloud cover
-%           h:          Non-radiative heat transfer coefficient(W/m2)
+%           h:          Non-radiative heat transfer coefficient(W/m2/K)
 
 %   Result: Temperature steady-state temperature(K),when cooling power==0
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%

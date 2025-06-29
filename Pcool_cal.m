@@ -9,7 +9,7 @@
 %           r_solar:    solar reflectance
 %           S:          solar irradiance
 %           cloud:      cloud cover
-%           h:          Non-radiative heat transfer coefficient(W/m2)
+%           h:          Non-radiative heat transfer coefficient(W/m2/K)
 %   Result: pcool:      cooling power(W/m2)
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 function pcool=Pcool_cal(Tamb,Temperature,tau_nir,r_nir,tau_solar,r_solar,S,cloud,h)
