@@ -6,5 +6,6 @@ while the remaining documents provide encapsulated functions for users to constr
 
 The file “AW1976.mat” includes atmospheric transmittance data based on the US 1976 standard. 
 
-Detailed references can be found in
+Detailed references can be found in References.
+
 Wang Z, Pian S, Zhang Y, et al. Fundamental concepts, design rules and potentials in radiative cooling[J]. Reports on Progress in Physics, 2025, 88(4): 045901.
